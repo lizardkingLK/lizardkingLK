@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lizardkingLK
-- 👀 I’m interested in Java, ASP.net, mern
+- 👀 I’m interested in Java, ASP.net, Javascript
 - 🌱 I’m currently learning ASP.net, Python
-- 💞️ I’m looking to collaborate on mern
+- 💞️ I’m looking to collaborate on java and asp.net
 - 📫 How to reach me -> use facebook
 
 <!---
