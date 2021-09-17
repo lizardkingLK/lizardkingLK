@@ -1,1 +1,1 @@
-- 👋 Hello, I’m @lizardkingLK. All we need to acheive in life is easy-going-ness.
+- 👋 #easygoingness
